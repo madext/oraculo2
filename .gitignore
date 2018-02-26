@@ -3,7 +3,7 @@
 /server/config.js
 
 # compiled output
-/dist
+# /dist
 /tmp
 /out-tsc
 
